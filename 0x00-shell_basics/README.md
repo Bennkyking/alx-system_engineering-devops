@@ -1,1 +1,2 @@
-omo
+^#!/bin/bash pwd
+^#!/bin/bash pwd
